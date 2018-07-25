@@ -1,0 +1,53 @@
+img {
+}
+
+.services p {
+  font-size:10px;
+}
+
+.services p {
+  font-size:10px;
+}
+
+@media (min-width: 768px) {
+  .services p {
+    font-size:14px;
+  }
+}
+
+.container.black p {
+  font-size:10px;
+}
+
+@media (min-width: 768px) {
+  .container.black p {
+    font-size:14px;
+  }
+}
+
+.mean p {
+  font-size:10px;
+}
+
+@media (min-width: 768px) {
+  .mean p {
+    font-size:16px;
+  }
+}
+
+.outro {
+  padding-top:150px;
+  padding-bottom:150px;
+  text-align:center;
+}
+
+.services img {
+  max-height:200px;
+}
+
+@media (min-width: 768px) {
+  .services img {
+    max-height:450px;
+  }
+}
+
