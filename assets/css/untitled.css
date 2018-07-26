@@ -49,7 +49,7 @@ img {
 
 @media (min-width: 576px) {
   .services img {
-    max-height:250px;
+    max-height:200px;
   }
 }
 
@@ -58,4 +58,3 @@ img {
     max-height:350px;
   }
 }
-
