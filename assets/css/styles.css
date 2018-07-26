@@ -14,6 +14,14 @@
   }
 }
 
+@media (min-width: 576px) {
+  #hero {
+    min-height:900px;
+    background-image:url(../../assets/img/tab.jpg);
+    background-size:cover;
+  }
+}
+
 @media (min-width: 768px) {
   #hero {
     min-height:900px;
@@ -66,6 +74,12 @@
 
 #hello .text-white {
   font-size:8px;
+}
+
+@media (min-width: 576px) {
+  #hello .text-white {
+    font-size:12px;
+  }
 }
 
 @media (min-width: 768px) {
