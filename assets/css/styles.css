@@ -6,6 +6,14 @@
   background-color:black;
 }
 
+@media (min-width: 300px) {
+  #hero {
+    min-height:900px;
+    background-image:url(../../assets/img/phone2.jpg);
+    background-size:cover;
+  }
+}
+
 @media (min-width: 768px) {
   #hero {
     min-height:900px;
@@ -57,7 +65,7 @@
 }
 
 #hello .text-white {
-  font-size:10px;
+  font-size:8px;
 }
 
 @media (min-width: 768px) {
