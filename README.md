@@ -1,3 +1,3 @@
 # Mosesbydesign
 Personal Portfiollio
-just trying to learn webdeign in all it's glory!
+just trying to learn webdesign in all it's glory!
