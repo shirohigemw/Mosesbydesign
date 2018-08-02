@@ -30,6 +30,14 @@
   }
 }
 
+@media (min-width: 992px) {
+  #hero {
+    min-height:900px;
+    background-image:url(../../assets/img/look2.jpg);
+    background-size:cover;
+  }
+}
+
 .col-3.welcome {
   padding-top:60px;
   text-align:center;
